@@ -1,0 +1,5002 @@
+[
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤና ይስጥልኝ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኮምፒውተር ምንድነው?",
+    "output": "ኮምፒውተር መረጃ ለማስተናገድ የሚጠቀም ቴክኖሎጂ መሳሪያ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም ነው?",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ደህና ነኝ፣ አንተስ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ትምህርት ለምን አስፈላጊ ነው?",
+    "output": "ትምህርት እውቀትን እና ክህሎትን ለማግኘት አስፈላጊ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ደመና ለምን ይፈጠራል?",
+    "output": "ደመና የውሃ ንፋስ በላይ ሲወጣ እና ሲቀዝቅዝ ይፈጠራል።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የአማርኛ ቋንቋ ምን አይነት ነው?",
+    "output": "አማርኛ የሴማዊ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ፓይተን ምንድነው?",
+    "output": "ፓይተን የፕሮግራሚንግ ቋንቋ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ሰላም",
+    "output": "ሰላም! እንዴት ልርዳህ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "AI ምንድነው?",
+    "output": "AI ማሽን እንደ ሰው እንዲያስብ የሚያደርግ ቴክኖሎጂ ነው።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርክ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "የኢትዮጵያ ካፒታል ምንድነው?",
+    "output": "የኢትዮጵያ ካፒታል አዲስ አበባ ናት።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ሰላም! ዛሬ ምን ልርዳዎ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "አየር ሁኔታ ምንድነው?",
+    "output": "አየር ሁኔታ የአየር ሁኔታዎችን ይገልጻል፣ እንደ ፀሐይ፣ ዝናብ ወይም ነፋስ።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ጤናን እንዴት እንጠብቃለን?",
+    "output": "ጤናን በመመገብ ጤናማ ምግብ እና በመስራት እንጠብቃለን።"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "እንደምን አደርሽ",
+    "output": "ጤና ይስጥልኝ! ምን ልርዳ?"
+  },
+  {
+    "instruction": "Respond naturally in Amharic.", 
+    "input": "ኢንተርኔት ምንድነው?",
+    "output": "ኢንተርኔት ዓለም አቀፍ የመረጃ አውታረ መረብ ነው።"
+  }
+]

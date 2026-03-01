@@ -1,0 +1,54 @@
+# =========================
+# 🧠 Model & Checkpoints
+# =========================
+amharic_chatbot_model/
+checkpoint-*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# =========================
+# 🐍 Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# =========================
+# 📦 Virtual Environments
+# =========================
+venv/
+env/
+.nllb_env/
+.venv/
+*.env
+
+# =========================
+# 🔐 Environment Variables
+# =========================
+.env
+
+# =========================
+# 📊 Logs & Outputs
+# =========================
+logs/
+*.log
+runs/
+wandb/
+
+# =========================
+# 🖥 OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🧪 Jupyter
+# =========================
+.ipynb_checkpoints/
