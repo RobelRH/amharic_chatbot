@@ -87,10 +87,9 @@ trainer = Trainer(
 # train
 trainer.train()
 
-# If your training was interrupted and you want to resume, you can use the below command
+# If your training was interrupted and you want to resume, you can resume_from_checkpoint
 # ---- make sure you replace "checkpoint-1060" with the latest checkpoint you get on the "amharic_chatbot_model" folder
 # trainer.train(resume_from_checkpoint="./amharic_chatbot_model/checkpoint-1060")
-
 
 # Save final model
 model.save_pretrained("./amharic_chatbot_model")
